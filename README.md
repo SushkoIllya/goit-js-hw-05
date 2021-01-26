@@ -1,1 +1,1 @@
-# goit-js-hw-05
+https://sushkoillya.github.io/goit-js-hw-05/
